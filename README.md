@@ -63,7 +63,8 @@ Develop a *user-friendly prototype* that connects buyers and sellers efficiently
 - Node.js & npm installed  
 - MongoDB (local or MongoDB Atlas)  
 
-### Installation
+###
+This application will now be running on http://localhost:3000
 ```bash
 # Clone the repository
 git clone https://github.com/rohananacharya2184/ecomarket.git
